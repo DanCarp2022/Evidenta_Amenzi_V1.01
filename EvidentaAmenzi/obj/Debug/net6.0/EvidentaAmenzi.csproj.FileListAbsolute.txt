@@ -1,0 +1,60 @@
+C:\Users\VLAD\Desktop\Proiect Gestiune Amenzi\EvidentaAmenzi\EvidentaAmenzi\bin\Debug\net6.0\EvidentaAmenzi.exe
+C:\Users\VLAD\Desktop\Proiect Gestiune Amenzi\EvidentaAmenzi\EvidentaAmenzi\bin\Debug\net6.0\EvidentaAmenzi.deps.json
+C:\Users\VLAD\Desktop\Proiect Gestiune Amenzi\EvidentaAmenzi\EvidentaAmenzi\bin\Debug\net6.0\EvidentaAmenzi.runtimeconfig.json
+C:\Users\VLAD\Desktop\Proiect Gestiune Amenzi\EvidentaAmenzi\EvidentaAmenzi\bin\Debug\net6.0\EvidentaAmenzi.dll
+C:\Users\VLAD\Desktop\Proiect Gestiune Amenzi\EvidentaAmenzi\EvidentaAmenzi\bin\Debug\net6.0\EvidentaAmenzi.pdb
+C:\Users\VLAD\Desktop\Proiect Gestiune Amenzi\EvidentaAmenzi\EvidentaAmenzi\obj\Debug\net6.0\EvidentaAmenzi.csproj.AssemblyReference.cache
+C:\Users\VLAD\Desktop\Proiect Gestiune Amenzi\EvidentaAmenzi\EvidentaAmenzi\obj\Debug\net6.0\EvidentaAmenzi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VLAD\Desktop\Proiect Gestiune Amenzi\EvidentaAmenzi\EvidentaAmenzi\obj\Debug\net6.0\EvidentaAmenzi.AssemblyInfoInputs.cache
+C:\Users\VLAD\Desktop\Proiect Gestiune Amenzi\EvidentaAmenzi\EvidentaAmenzi\obj\Debug\net6.0\EvidentaAmenzi.AssemblyInfo.cs
+C:\Users\VLAD\Desktop\Proiect Gestiune Amenzi\EvidentaAmenzi\EvidentaAmenzi\obj\Debug\net6.0\EvidentaAmenzi.csproj.CoreCompileInputs.cache
+C:\Users\VLAD\Desktop\Proiect Gestiune Amenzi\EvidentaAmenzi\EvidentaAmenzi\obj\Debug\net6.0\EvidentaAmenzi.dll
+C:\Users\VLAD\Desktop\Proiect Gestiune Amenzi\EvidentaAmenzi\EvidentaAmenzi\obj\Debug\net6.0\refint\EvidentaAmenzi.dll
+C:\Users\VLAD\Desktop\Proiect Gestiune Amenzi\EvidentaAmenzi\EvidentaAmenzi\obj\Debug\net6.0\EvidentaAmenzi.pdb
+C:\Users\VLAD\Desktop\Proiect Gestiune Amenzi\EvidentaAmenzi\EvidentaAmenzi\obj\Debug\net6.0\EvidentaAmenzi.genruntimeconfig.cache
+C:\Users\VLAD\Desktop\Proiect Gestiune Amenzi\EvidentaAmenzi\EvidentaAmenzi\obj\Debug\net6.0\ref\EvidentaAmenzi.dll
+D:\IT School_WorkFolder\01. GitRepository\Program_Evidenta_Amenzi\EvidentaAmenzi\EvidentaAmenzi\bin\Debug\net6.0\EvidentaAmenzi.exe
+D:\IT School_WorkFolder\01. GitRepository\Program_Evidenta_Amenzi\EvidentaAmenzi\EvidentaAmenzi\bin\Debug\net6.0\EvidentaAmenzi.deps.json
+D:\IT School_WorkFolder\01. GitRepository\Program_Evidenta_Amenzi\EvidentaAmenzi\EvidentaAmenzi\bin\Debug\net6.0\EvidentaAmenzi.runtimeconfig.json
+D:\IT School_WorkFolder\01. GitRepository\Program_Evidenta_Amenzi\EvidentaAmenzi\EvidentaAmenzi\bin\Debug\net6.0\EvidentaAmenzi.dll
+D:\IT School_WorkFolder\01. GitRepository\Program_Evidenta_Amenzi\EvidentaAmenzi\EvidentaAmenzi\bin\Debug\net6.0\EvidentaAmenzi.pdb
+D:\IT School_WorkFolder\01. GitRepository\Program_Evidenta_Amenzi\EvidentaAmenzi\EvidentaAmenzi\obj\Debug\net6.0\EvidentaAmenzi.csproj.AssemblyReference.cache
+D:\IT School_WorkFolder\01. GitRepository\Program_Evidenta_Amenzi\EvidentaAmenzi\EvidentaAmenzi\obj\Debug\net6.0\EvidentaAmenzi.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT School_WorkFolder\01. GitRepository\Program_Evidenta_Amenzi\EvidentaAmenzi\EvidentaAmenzi\obj\Debug\net6.0\EvidentaAmenzi.AssemblyInfoInputs.cache
+D:\IT School_WorkFolder\01. GitRepository\Program_Evidenta_Amenzi\EvidentaAmenzi\EvidentaAmenzi\obj\Debug\net6.0\EvidentaAmenzi.AssemblyInfo.cs
+D:\IT School_WorkFolder\01. GitRepository\Program_Evidenta_Amenzi\EvidentaAmenzi\EvidentaAmenzi\obj\Debug\net6.0\EvidentaAmenzi.csproj.CoreCompileInputs.cache
+D:\IT School_WorkFolder\01. GitRepository\Program_Evidenta_Amenzi\EvidentaAmenzi\EvidentaAmenzi\obj\Debug\net6.0\EvidentaAmenzi.dll
+D:\IT School_WorkFolder\01. GitRepository\Program_Evidenta_Amenzi\EvidentaAmenzi\EvidentaAmenzi\obj\Debug\net6.0\refint\EvidentaAmenzi.dll
+D:\IT School_WorkFolder\01. GitRepository\Program_Evidenta_Amenzi\EvidentaAmenzi\EvidentaAmenzi\obj\Debug\net6.0\EvidentaAmenzi.pdb
+D:\IT School_WorkFolder\01. GitRepository\Program_Evidenta_Amenzi\EvidentaAmenzi\EvidentaAmenzi\obj\Debug\net6.0\EvidentaAmenzi.genruntimeconfig.cache
+D:\IT School_WorkFolder\01. GitRepository\Program_Evidenta_Amenzi\EvidentaAmenzi\EvidentaAmenzi\obj\Debug\net6.0\ref\EvidentaAmenzi.dll
+D:\GitHub Repository\Program_Evidenta_Amenzi\EvidentaAmenzi\EvidentaAmenzi\bin\Debug\net6.0\EvidentaAmenzi.exe
+D:\GitHub Repository\Program_Evidenta_Amenzi\EvidentaAmenzi\EvidentaAmenzi\bin\Debug\net6.0\EvidentaAmenzi.deps.json
+D:\GitHub Repository\Program_Evidenta_Amenzi\EvidentaAmenzi\EvidentaAmenzi\bin\Debug\net6.0\EvidentaAmenzi.runtimeconfig.json
+D:\GitHub Repository\Program_Evidenta_Amenzi\EvidentaAmenzi\EvidentaAmenzi\bin\Debug\net6.0\EvidentaAmenzi.dll
+D:\GitHub Repository\Program_Evidenta_Amenzi\EvidentaAmenzi\EvidentaAmenzi\bin\Debug\net6.0\EvidentaAmenzi.pdb
+D:\GitHub Repository\Program_Evidenta_Amenzi\EvidentaAmenzi\EvidentaAmenzi\obj\Debug\net6.0\EvidentaAmenzi.csproj.AssemblyReference.cache
+D:\GitHub Repository\Program_Evidenta_Amenzi\EvidentaAmenzi\EvidentaAmenzi\obj\Debug\net6.0\EvidentaAmenzi.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Repository\Program_Evidenta_Amenzi\EvidentaAmenzi\EvidentaAmenzi\obj\Debug\net6.0\EvidentaAmenzi.AssemblyInfoInputs.cache
+D:\GitHub Repository\Program_Evidenta_Amenzi\EvidentaAmenzi\EvidentaAmenzi\obj\Debug\net6.0\EvidentaAmenzi.AssemblyInfo.cs
+D:\GitHub Repository\Program_Evidenta_Amenzi\EvidentaAmenzi\EvidentaAmenzi\obj\Debug\net6.0\EvidentaAmenzi.csproj.CoreCompileInputs.cache
+D:\GitHub Repository\Program_Evidenta_Amenzi\EvidentaAmenzi\EvidentaAmenzi\obj\Debug\net6.0\EvidentaAmenzi.dll
+D:\GitHub Repository\Program_Evidenta_Amenzi\EvidentaAmenzi\EvidentaAmenzi\obj\Debug\net6.0\refint\EvidentaAmenzi.dll
+D:\GitHub Repository\Program_Evidenta_Amenzi\EvidentaAmenzi\EvidentaAmenzi\obj\Debug\net6.0\EvidentaAmenzi.pdb
+D:\GitHub Repository\Program_Evidenta_Amenzi\EvidentaAmenzi\EvidentaAmenzi\obj\Debug\net6.0\EvidentaAmenzi.genruntimeconfig.cache
+D:\GitHub Repository\Program_Evidenta_Amenzi\EvidentaAmenzi\EvidentaAmenzi\obj\Debug\net6.0\ref\EvidentaAmenzi.dll
+D:\02. ACTIVITIES\04. My C# projects\Evidenta_Amenzi_V1.01\EvidentaAmenzi\bin\Debug\net6.0\EvidentaAmenzi.exe
+D:\02. ACTIVITIES\04. My C# projects\Evidenta_Amenzi_V1.01\EvidentaAmenzi\bin\Debug\net6.0\EvidentaAmenzi.deps.json
+D:\02. ACTIVITIES\04. My C# projects\Evidenta_Amenzi_V1.01\EvidentaAmenzi\bin\Debug\net6.0\EvidentaAmenzi.runtimeconfig.json
+D:\02. ACTIVITIES\04. My C# projects\Evidenta_Amenzi_V1.01\EvidentaAmenzi\bin\Debug\net6.0\EvidentaAmenzi.dll
+D:\02. ACTIVITIES\04. My C# projects\Evidenta_Amenzi_V1.01\EvidentaAmenzi\bin\Debug\net6.0\EvidentaAmenzi.pdb
+D:\02. ACTIVITIES\04. My C# projects\Evidenta_Amenzi_V1.01\EvidentaAmenzi\obj\Debug\net6.0\EvidentaAmenzi.csproj.AssemblyReference.cache
+D:\02. ACTIVITIES\04. My C# projects\Evidenta_Amenzi_V1.01\EvidentaAmenzi\obj\Debug\net6.0\EvidentaAmenzi.GeneratedMSBuildEditorConfig.editorconfig
+D:\02. ACTIVITIES\04. My C# projects\Evidenta_Amenzi_V1.01\EvidentaAmenzi\obj\Debug\net6.0\EvidentaAmenzi.AssemblyInfoInputs.cache
+D:\02. ACTIVITIES\04. My C# projects\Evidenta_Amenzi_V1.01\EvidentaAmenzi\obj\Debug\net6.0\EvidentaAmenzi.AssemblyInfo.cs
+D:\02. ACTIVITIES\04. My C# projects\Evidenta_Amenzi_V1.01\EvidentaAmenzi\obj\Debug\net6.0\EvidentaAmenzi.csproj.CoreCompileInputs.cache
+D:\02. ACTIVITIES\04. My C# projects\Evidenta_Amenzi_V1.01\EvidentaAmenzi\obj\Debug\net6.0\EvidentaAmenzi.dll
+D:\02. ACTIVITIES\04. My C# projects\Evidenta_Amenzi_V1.01\EvidentaAmenzi\obj\Debug\net6.0\refint\EvidentaAmenzi.dll
+D:\02. ACTIVITIES\04. My C# projects\Evidenta_Amenzi_V1.01\EvidentaAmenzi\obj\Debug\net6.0\EvidentaAmenzi.pdb
+D:\02. ACTIVITIES\04. My C# projects\Evidenta_Amenzi_V1.01\EvidentaAmenzi\obj\Debug\net6.0\EvidentaAmenzi.genruntimeconfig.cache
+D:\02. ACTIVITIES\04. My C# projects\Evidenta_Amenzi_V1.01\EvidentaAmenzi\obj\Debug\net6.0\ref\EvidentaAmenzi.dll
