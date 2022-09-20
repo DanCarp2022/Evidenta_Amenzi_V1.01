@@ -444,7 +444,7 @@ namespace EvidentaAmenzi
 
             if (CheckIfLetters(cNumeAgent))
             {
-                Console.WriteLine("\r\nNume agent: " + numeAgent);
+                Console.WriteLine("\r\nNume agent: " + numeAgent.ToString());
                 Console.WriteLine("==============================================================");
                 //Console.ReadKey();
             }
@@ -452,7 +452,7 @@ namespace EvidentaAmenzi
             {
                 while (CheckIfLetters(cNumeAgent) == false)
                 {
-                    Console.WriteLine("Ati introdus => {0}", numeAgent);
+                    Console.WriteLine("Ati introdus => {0}", numeAgent.ToString());
                     Console.WriteLine("\r\n<!> Numele introdus nu este valid. Excludeti utilizarea spatiilor, a cifrelor sau a simbolurilor.");
                     Console.WriteLine("\r\nIncercati din nou...");
                     Console.ReadKey();
@@ -460,7 +460,7 @@ namespace EvidentaAmenzi
                     numeAgent = Console.ReadLine();
                     cNumeAgent = numeAgent.ToCharArray();
                 }
-                Console.WriteLine("\r\nNume agent: " + numeAgent);
+                Console.WriteLine("\r\nNume agent: " + numeAgent.ToString());
                 Console.WriteLine("==============================================================");
                 //Console.ReadKey();
             }
@@ -471,7 +471,7 @@ namespace EvidentaAmenzi
 
             if (CheckIfLetters(cPrenumeAgent))
             {
-                Console.WriteLine("\r\nPrenume agent: " + prenumeAgent);
+                Console.WriteLine("\r\nPrenume agent: " + prenumeAgent.ToString());
                 Console.WriteLine("==============================================================");
                 //Console.ReadKey();
             }
@@ -479,7 +479,7 @@ namespace EvidentaAmenzi
             {
                 while (CheckIfLetters(cPrenumeAgent) == false)
                 {
-                    Console.WriteLine("Ati introdus => {0}", prenumeAgent);
+                    Console.WriteLine("Ati introdus => {0}", prenumeAgent.ToString());
                     Console.WriteLine("\r\n<!> Prenumele introdus nu este valid. Excludeti utilizarea spatiilor, a cifrelor sau a simbolurilor.");
                     Console.WriteLine("\r\nIncercati din nou...");
                     Console.ReadKey();
@@ -488,7 +488,7 @@ namespace EvidentaAmenzi
                     cPrenumeAgent = prenumeAgent.ToCharArray();
                 }
 
-                Console.WriteLine("\r\nPrenume agent: " + prenumeAgent);
+                Console.WriteLine("\r\nPrenume agent: " + prenumeAgent.ToString());
                 Console.WriteLine("==============================================================");
                 //Console.ReadKey();
             }
@@ -504,7 +504,7 @@ namespace EvidentaAmenzi
                     idAgent = (uint)random.Next(1000, 10000);
                 }
             }
-            Console.WriteLine("\r\n <[ Agentul >> {0} {1} << a primit ID-ul: {2} ]>", numeAgent, prenumeAgent, idAgent);
+            Console.WriteLine("\r\n <[ Agentul >> {0} {1} << a primit ID-ul: {2} ]>", numeAgent, prenumeAgent, idAgent.ToString());
 
             Console.WriteLine("\r\n]> Doriti sa adaugati agentul in lista cu agenti ? \r\n     >>>>>>> DA: 1 / NU: 2 <<<<<<<");
 
@@ -562,7 +562,8 @@ namespace EvidentaAmenzi
 
             while (CheckIfNumber(cInputID) == false)
             {
-                Console.WriteLine("Ati introdus => {0}", cInputID);
+                string temp = new string(cInputID);
+                Console.WriteLine("Ati introdus => {0}", temp); 
                 Console.WriteLine("\r\n<!> Numarul introdus nu este valid. Introduceti doar numere. Excludeti utilizarea spatiilor, a literelor sau a simbolurilor.");
                 Console.WriteLine("\r\nIncercati din nou...");
                 Console.ReadKey();
